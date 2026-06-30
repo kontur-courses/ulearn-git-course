@@ -9,7 +9,7 @@
 # Шаг 1
 
 Добавь новый репозиторий https://github.com/kontur-courses/ulearn-git-guide-ext для синхронизации:  
-`git remote add ext git@github.com:kontur-courses/ulearn-git-guide-ext.git`
+`git remote add ext https://github.com/kontur-courses/ulearn-git-guide-ext.git`
 
 Убедись, что удаленный репозиторий был добавлен: `git remote -v`
 
